@@ -1,0 +1,9 @@
+{
+  "name": "opencode-sketch",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@opencode-ai/plugin": "1.18.10",
+    "mcporter": "^0.12.3"
+  }
+}

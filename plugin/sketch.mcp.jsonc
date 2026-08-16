@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "sketch": {
+      "baseUrl": "http://localhost:31126/mcp"
+    }
+  }
+}
